@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+* {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	padding-top: 200px;
+}
+
+.links {
+	display: inline-block;
+	vertical-align: top;
+	width: 350px;
+}
+
+.date {
+	color: blue;
+}
+
+.time {
+	color: green;
+}

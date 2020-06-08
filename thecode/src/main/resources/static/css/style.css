@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.container {
+	margin: auto;
+	width: 800px;
+	padding-top: 200px;
+}
+
+.errormsg {
+	color: red;
+	font-size: 14px;
+}
