@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.green {
+	color: green;
+	font-size: 14px;
+}
+
+.red {
+	color: red;
+	font-size: 14px;
+}
+
+.location {
+	height: 250px;
+	border: 1px solid black;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.container {
+	margin-top: 50px;
+}
+
+.activity {
+	padding: 20px 0px;
+}
+
+.activitycontent {
+	height: 300px;
+	overflow: auto;
+}
